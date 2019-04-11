@@ -1,0 +1,23 @@
+{
+  "name": "rxjs-operators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.4.3"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.3",
+    "rxjs": "^6.4.0",
+    "rxjs-compat": "^6.4.0"
+  }
+}
